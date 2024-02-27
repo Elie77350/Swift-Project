@@ -11,7 +11,6 @@ import SwiftUI
 struct MiseEnPratiqueApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
         }
     }
 }

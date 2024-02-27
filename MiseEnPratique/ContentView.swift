@@ -17,7 +17,7 @@ struct ContentView: View {
 						}) {
 							Text("Incrémenter!")
 								.padding()
-								.background(Color.green)
+								.background(Color.blue)
 								.foregroundColor(.white)
 								.font(.title)
 								.cornerRadius(10)
